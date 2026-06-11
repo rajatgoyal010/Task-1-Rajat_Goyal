@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Learn Python",
+        "priority": "High",
+        "category": "Study",
+        "due_date": "2026-07-01",
+        "completed": true
+    },
+    {
+        "title": "go on walk",
+        "priority": "Low",
+        "category": "General",
+        "due_date": "2007-07-25",
+        "completed": true
+    }
+]
